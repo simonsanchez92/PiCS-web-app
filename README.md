@@ -1,6 +1,6 @@
 # PiCS-web-app
 
-<p>Picture search web application which fetches data from the Pixabay API and retrieves target content</p>
+<p>Picture search web application which fetches data from the Pixabay API and retrieves related content</p>
 
 <h3>Techologies used:</h3>
 <ul>
