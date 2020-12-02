@@ -10,3 +10,4 @@
 </ul>
 
 <p>Fetch API and Async/Await to handle promises</p>
+<p>Infinite scrolling functionality added</p>
